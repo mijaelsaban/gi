@@ -52,7 +52,7 @@
                 <img src="images/banners/banner-cercos-04.jpg" />
                 <div>
                     <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
-                    <p>La opción más segura <br>y disuasiva del mercado.</p>
+                    <p>La opción más segura <br>y disuasiva.</p>
                     <a href="insumos" class="bt">Más info</a>
                 </div>
             </div>

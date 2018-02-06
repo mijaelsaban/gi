@@ -14,10 +14,9 @@ $(document).ready(function() {
 	});
 	
 	$('#sliderHome').cycle({
-		timeout:0,
+		timeout:2500,
 		fx:'fade',
 		pager: '#sliderNav',
-
 		next:'#sliderNext', 
 	    prev:'#sliderPrev'
 	});
