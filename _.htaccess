@@ -1,0 +1,21 @@
+AddHandler x-httpd-php5 .php
+
+RewriteEngine On
+
+<IfModule mod_rewrite.c>
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_HOST} ^www\.(.+)$ [NC]
+  RewriteRule ^ http://%1%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+Options +FollowSymlinks
+
+RewriteRule ^inicio$ index.html [L,NC]
+RewriteRule ^quienes-somos$ quienes-somos.html [L,NC]
+RewriteRule ^cercos-perimetrales-electrificados$ cercos-perimetrales-electrificados.html [L,NC]
+RewriteRule ^sistema-antientraderas$ sistema-antientraderas.html [L,NC]
+RewriteRule ^sistema-de-alarmas$ sistema-de-alarmas.html [L,NC]
+RewriteRule ^camara-de-seguridad$ camara-de-seguridad.html [L,NC]
+RewriteRule ^redes-y-telefonia$ redes-y-telefonia.html [L,NC]
+RewriteRule ^nice$ nice.html [L,NC]
+RewriteRule ^contacto$ contacto.html [L,NC]
