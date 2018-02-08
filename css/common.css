@@ -329,6 +329,7 @@ h1, h2, h3, h4, h5, h6, .bt {
 		right:0;
 		display:none;
 		background:#fafafa;
+		z-index: 7;
 	}
 	#nav > li {
 		float:none;
