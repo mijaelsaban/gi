@@ -27,7 +27,7 @@
             <div>
                 <img src="images/banners/banner-cercos-01.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
+                    <h2>Cercos perimetrales electrificados</h2>
                     <p>La opción más segura <br>y disuasiva del mercado.</p>
                     <a href="cercos-perimetrales-electrificados" class="bt">¿Cómo funciona?</a>
                 </div>
@@ -35,32 +35,32 @@
             <div>
                 <img src="images/banners/banner-cercos-02.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
-                    <p>La opción más segura <br>y disuasiva del mercado.</p>
+                    <h2>Insumos para <br>cercos eléctricos</h2>
+                    <p>El más completo catálogo de productos. <br>Venta directa a instaladores.</p>
                     <a href="insumos" class="bt">Ver productos</a>
                 </div>
             </div>
             <div>
                 <img src="images/banners/banner-cercos-03.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
-                    <p>La opción más segura <br>y disuasiva del mercado.</p>
+                    <h2>Cercos eléctricos <br>para countries</h2>
+                    <p><strong>y barrios cerrados.</strong> <br>Instalación y Servicio PosVenta</p>
                     <a href="insumos" class="bt">Más info</a>
                 </div>
             </div>
             <div>
                 <img src="images/banners/banner-cercos-04.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
-                    <p>La opción más segura <br>y disuasiva.</p>
+                    <h2>Cercos eléctricos <br>para viviendas</h2>
+                    <p>Instalación en medianeras, <br>balcones, parques y jardines.</p>
                     <a href="insumos" class="bt">Más info</a>
                 </div>
             </div>
              <div>
                 <img src="images/banners/banner-cercos-05.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados para countries barrios cerrados</h2>
-                    <p>La opción más segura <br>y disuasiva del mercado.</p>
+                    <h2>Cercos eléctricos <br>para balcones</h2>
+                    <p>Instalación en medianeras, <br>frentes, edificios.</p>
                     <a href="insumos" class="bt">Más info</a>
                 </div>
             </div>
@@ -103,53 +103,27 @@
     </div>
 </div>
 <div id="main" class="page home">
-	<!-- <h3>Conocé nuestros sistemas de seguridad</h3> -->
-    <h3>CERCOS PERIMETRALES ELECTRIFICADOS </h3>
+	<h3>Conocé nuestros sistemas de seguridad</h3>
 	<ul id="quickAccess" class="page">
     	<li>
-        	<h2><span>1.</span> para casas</h2>
+        	<h2><span>1.</span> Cercos perimetrales electrificados</h2>
             <img src="images/home-cercos-perimetrales-electrificados.jpg" />
             <p>Gran poder de disuación en el intento de intrusión mediante una descarga eléctrica.</p>
             <a href="cercos-perimetrales-electrificados" class="bt">Ver Más</a>
         </li>
     	<li>
-        	<h2><span>2.</span> para edfificios</h2>
+        	<h2><span>2.</span> Sistema Antientraderas</h2>
             <img src="images/home-barreras-infrarrojas.jpg" />
             <p>Más seguridad al entrar o salir de tu domicilio. Monitoreas desde tu celular.  </p>
             <a href="barreras-infrarrojas" class="bt">Ver Más</a>
         </li>
     	<li>
-        	<h2><span>3.</span> para countries</h2>
-            <img src="images/cercos-perimetrales-electrificados-2.jpg" />
+        	<h2><span>3.</span> Cámaras de seguridad</h2>
+            <img src="images/home-camaras-de-seguridad.jpg" />
             <p>El sistema advierte la intrusión detectada y la reporta al centro de monitoreo.</p>
             <a href="camara-de-seguridad" class="bt">Ver Más</a>
         </li>
-
-<!-- agregar 3 mas -->
-           
-
     </ul>
-    <ul id="quickAccess" class="page">
-     <li>
-            <h2><span>4.</span> para galpones e industrias</h2>
-            <img src="images/home-cercos-perimetrales-electrificados.jpg" />
-            <p>Gran poder de disuación en el intento de intrusión mediante una descarga eléctrica.</p>
-            <a href="cercos-perimetrales-electrificados" class="bt">Ver Más</a>
-        </li>
-        <li>
-            <h2><span>5.</span> para depositos</h2>
-            <img src="images/home-barreras-infrarrojas.jpg" />
-            <p>Más seguridad al entrar o salir de tu domicilio. Monitoreas desde tu celular.  </p>
-            <a href="barreras-infrarrojas" class="bt">Ver Más</a>
-        </li>
-        <li>
-            <h2><span>6.</span> para colegios</h2>
-            <img src="images/cercos-perimetrales-electrificados-2.jpg" />
-            <p>El sistema advierte la intrusión detectada y la reporta al centro de monitoreo.</p>
-            <a href="camara-de-seguridad" class="bt">Ver Más</a>
-        </li>
-            </ul>
-
 </div>
 
 <? include_once('inc.footer.php'); ?>
