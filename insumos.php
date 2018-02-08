@@ -32,65 +32,65 @@
             <li>
                 <img src="images/insumos/energizador.jpg" />
                 <h2>Energizador</h2>
-                <h5>$4680,00.-</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/aislador-terminal.jpg" />
                 <h2>Aisladores terminales</h2>
                 <p>7cm x 4,5cm.</p>
-                <h5>$10,90.- c/u</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/alambre-de-aluminio.jpg" />
                 <h2>Alambre de aluminio 1,5mm</h2>
                 <p>Bobina de 3500mts aprox 16,5kg.</p>
-                <h5>$1,30.- x Metro</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <p>Bobina de 500mts aprox 2,3kg.</p>
-                <h5>$1,60.- x Metro</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/aislador-intermedio-regulable.jpg" />
                 <h2>Aisladores intermedios regulables</h2>
                 <p>4,5cm x 6cm.</p>
-                <h5>$7,00.- c/u</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/bateria-de-gel.jpg" />
                 <h2>Baterias de gel</h2>
                 <p>12V 7A.</p>
-                <h5>$360,00.-</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/cable-alta-tension.jpg" />
                 <h2>Cables de Alta tensión</h2>
                 <p>Exclusivo para Cercos Eléctricos</p>
-                <h5>$15,00.- x Metro</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/control-remoto.jpg" />
                 <h2>Controles remotos</h2>
                 <p>1 Receptor con 2 llaveros.</p>
-                <h5>$1810,00.-</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/resorte.jpg" />
                 <h2>Resortes inoxidables</h2>
                 <p>7,48cm x 1,65cm.</p>
-                <h5>$14,50.- c/u</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>
                 <img src="images/insumos/sirena-exterior.jpg" />
                 <h2>Sirenas</h2>
                 <p>&nbsp;</p>
-                <h5>$198,00.-</h5>
+                <h5>CONSULTAR PRECIO</h5>
                 <a href="#footer">Más info</a>
             </li>
             <li>

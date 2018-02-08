@@ -23,28 +23,21 @@
 
 <div id="featured">
 	<div class="page">
-        <div id="sliderHome">
+        <div id="sliderHome" class="slider">
             <div>
                 <img src="images/banners/banner-cercos-01.jpg" />
                 <div>
-                    <h2>Cercos perimetrales electrificados</h2>
+                    <h2> <strong>Cercos perimetrales electrificados</strong></h2>
                     <p>La opción más segura <br>y disuasiva del mercado.</p>
                     <a href="cercos-perimetrales-electrificados" class="bt">¿Cómo funciona?</a>
                 </div>
             </div>
-            <div>
-                <img src="images/banners/banner-cercos-02.jpg" />
-                <div>
-                    <h2>Insumos para <br>cercos eléctricos</h2>
-                    <p>El más completo catálogo de productos. <br>Venta directa a instaladores.</p>
-                    <a href="insumos" class="bt">Ver productos</a>
-                </div>
-            </div>
+            
             <div>
                 <img src="images/banners/banner-cercos-03.jpg" />
                 <div>
-                    <h2>Cercos eléctricos <br>para countries</h2>
-                    <p><strong>y barrios cerrados.</strong> <br>Instalación y Servicio PosVenta</p>
+                    <h2><strong>Cercos eléctricos <br>para countries</strong></h2>
+                    <p> <br>Instalación y Servicio PosVenta</p>
                     <a href="insumos" class="bt">Más info</a>
                 </div>
             </div>
@@ -59,9 +52,17 @@
              <div>
                 <img src="images/banners/banner-cercos-05.jpg" />
                 <div>
-                    <h2>Cercos eléctricos <br>para balcones</h2>
+                    <h2>Cercos eléctricos <br>para edificios</h2>
                     <p>Instalación en medianeras, <br>frentes, edificios.</p>
                     <a href="insumos" class="bt">Más info</a>
+                </div>
+            </div>
+            <div>
+                <img src="images/banners/banner-cercos-02.jpg" />
+                <div>
+                    <h2>Insumos para <br>cercos eléctricos</h2>
+                    <p>El más completo catálogo de productos. <br>Venta directa a instaladores.</p>
+                    <a href="insumos" class="bt">Ver productos</a>
                 </div>
             </div>
             <!--
@@ -103,25 +104,28 @@
     </div>
 </div>
 <div id="main" class="page home">
-	<h3>Conocé nuestros sistemas de seguridad</h3>
+	<h3>CERCOS PERIMETRALES ELECTRIFICADOS</h3>
+    <h3>PRESUPUESTO SIN CARGO</h3>
+    <h3>GARANTIA</h3>
+
 	<ul id="quickAccess" class="page">
     	<li>
-        	<h2><span>1.</span> Cercos perimetrales electrificados</h2>
-            <img src="images/home-cercos-perimetrales-electrificados.jpg" />
+        	<h2><span>1.</span> PARA COUNTRIES</h2>
+            <img src="images/paraCountries.jpg" />
             <p>Gran poder de disuación en el intento de intrusión mediante una descarga eléctrica.</p>
             <a href="cercos-perimetrales-electrificados" class="bt">Ver Más</a>
         </li>
     	<li>
-        	<h2><span>2.</span> Sistema Antientraderas</h2>
-            <img src="images/home-barreras-infrarrojas.jpg" />
-            <p>Más seguridad al entrar o salir de tu domicilio. Monitoreas desde tu celular.  </p>
-            <a href="barreras-infrarrojas" class="bt">Ver Más</a>
+        	<h2><span>2.</span> PARA CASAS</h2>
+            <img src="images/paraCasas2.jpg" />
+            <p>Es la barrera física más eficiente y disuasiva para proteger y evitar el ingreso de intrusos. </p>
+            <a href="cercos-perimetrales-electrificados" class="bt">Ver Más</a>
         </li>
     	<li>
-        	<h2><span>3.</span> Cámaras de seguridad</h2>
+        	<h2><span>3.</span> PARA EDIFICIOS</h2>
             <img src="images/home-camaras-de-seguridad.jpg" />
-            <p>El sistema advierte la intrusión detectada y la reporta al centro de monitoreo.</p>
-            <a href="camara-de-seguridad" class="bt">Ver Más</a>
+            <p>Sistema legal y homologado, Desalienta cualquier tipo de ingreso.</p>
+            <a href="cercos-perimetrales-electrificados" class="bt">Ver Más</a>
         </li>
     </ul>
 </div>
